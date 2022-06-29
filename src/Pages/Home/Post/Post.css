@@ -1,0 +1,25 @@
+.all-post{
+    margin-left: 15%;
+}
+.post-div{
+    width: 60%;
+}
+.sub-title{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.content-div{
+    margin-left: 20px;
+}
+.content-paragraph{
+    margin-top: 12px;
+}
+.admin-div{
+    margin-top: 32px;
+}
+.admin-name{
+    margin-left: 10px;
+}
